@@ -1,0 +1,47 @@
+Shroom Agent's Universal:tm: Modpack Installation Guide
+1) Download the latest version of the modpack
+2) Download & install the required version of forge.
+
+Windows instructions: 
+	3) Navigate to your .minecraft folder in AppData (mine looks like `C:\Users\sweetie\AppData\Roaming\.minecraft`)
+		A) An easy way to get to this is typing `%appdata%` in your file explorer address bar, then clicking `.minecraft`
+	4) Enter the `modpacks` folder (create it if it doesn't exist)
+	5) Make a new folder (it can be named anything you want, but it should be able to identify the modpack. Don't use spaces)
+	6) Extract the contents of the .7z file you downloaded earlier here.
+		A) So if you made the folder called "SweetiesModpack", files should look like the following
+			a) `.minecraft\modpacks\SweetiesModpack\config`
+			b) `.minecraft\modpacks\SweetiesModpack\mods`
+			c) `.minecraft\modpacks\SweetiesModpack\scripts` (not every modpack will have a scripts folder!)
+	7) Create a new Minecraft profile in the launcher, and give it the following settings
+		A) Name it something familiar
+		B) Version should be set to the forge version you just installed (make sure the numbers at the very end match!)
+		C) Game directory should be set to the same folder you made in step 5!
+			a) Using the example above, mine would look like this: `C:\Users\sweetie\AppData\Roaming\.minecraft\modpacks\SweetiesModpack`
+		D) Click the "More Options" button underneath the resolution
+		E) You can change the Java executable if you want to, but it's not required. If you don't know how this works, then you can safely leave it alone.
+		F) Change the "-Xmx2G" to at **LEAST "-Xmx6G" FOR ALL MODPACKS.** You can go higher if you have the RAM/Memory to spare.
+			a) This is changing the amount of RAM that Minecraft can use. My modpacks requires at minimum 6 gigabytes of RAM, but 8 gigabytes is recommended. You can go higher if you want, and if you have the available RAM.
+		G) Hit save!
+	8) Launch the game!
+	
+	
+GNU/Linux instructions: 
+	3) Navigate to your .minecraft folder in ~ (mine looks like `/home/sweetie/.minecraft`)
+	4) Enter the `modpacks` folder (create it if it doesn't exist)
+	5) Make a new folder (it can be named anything you want, but it should be able to identify the modpack. Don't use spaces)
+	6) Extract the contents of the .7z file you downloaded earlier here.
+		A) So if you made the folder called "SweetiesModpack", files should look like the following
+			a) `.minecraft/modpacks/SweetiesModpack/config`
+			b) `.minecraft/modpacks/SweetiesModpack/mods`
+			c) `.minecraft/modpacks/SweetiesModpack/scripts` (not every modpack will have a scripts folder!)
+	7) Create a new Minecraft profile in the launcher, and give it the following settings
+		A) Name it something familiar
+		B) Version should be set to the forge version you just installed (make sure the numbers at the very end match!)
+		C) Game directory should be set to the same folder you made in step 5!
+			a) Using the example above, mine would look like this: `C/home/sweetie/.minecraft/modpacks/SweetiesModpack`
+		D) Click the "More Options" button underneath the resolution
+		E) Make sure your system is using **Java 8** when running modpacks. If the default java command points to Java 8, you're fine. If not, specify the Java 8 command location here.
+		F) Change the "-Xmx2G" to at **LEAST "-Xmx6G" FOR ALL MODPACKS.** You can go higher if you have the RAM to spare.
+			a) his is changing the amount of RAM that Minecraft can use. My modpacks requires at minimum 6 gigabytes of RAM, but 8 gigabytes is recommended. You can go higher if you want, and if you have the available RAM.
+		G) Hit save, and you're done!
+	8) Launch the mod pack, and grab a cup of coffee while it loads!

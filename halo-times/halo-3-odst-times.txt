@@ -1,0 +1,14 @@
+1) par+5:56 Tayari Plaza (+356 seconds)
+2) par+1:56 Uplift Reserve (+116 seconds)
+3) par+1:44 Kizingo Boulevard (+104 seconds)
+4) par+0:53 Oni Alpha Site (+53 seconds)
+5) par-0:50 NMPD HQ (-50 seconds)
+6) par+12:02 Kikowani Station (+722 seconds)
+7) par+8:20 Data Hive (+500 seconds)
+8) par+0:31 Coastal Highway (+31 seconds)
+
+Total so far: par+30:32
+
+TOTAL ALLOWED: par+1:30:00
+
+Extra allotted time: :white_check_mark: +59:28

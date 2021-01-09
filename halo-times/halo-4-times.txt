@@ -1,0 +1,14 @@
+1) par-4:31 Dawn (-271 seconds)
+2) par+5:24 Requiem (+324 seconds)
+3) par+3:42 Forerunner (+222 seconds)
+4) par+0:33 Infinity (+33 seconds)
+5) par+9:12 Reclaimer (+552 seconds)
+6) par-7:44 Shutdown (-464 seconds)
+7) par+3:03 Composer (+183 seconds)
+8) par-1:59 Midnight (-119 seconds)
+
+Total so far: par+7:40
+
+TOTAL ALLOWED: par+20:00
+
+Extra alloted time: :white_check_mark: 12:20
