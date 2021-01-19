@@ -13,7 +13,7 @@
 6. Check if a forge installer is present. If there is, run it.
     * The installer will look something like the following: `forge-1.16.x-a.b.c-shroom-1.16.x-installer.jar`
     * If there is, see the section on [Installing Minecraft Forge](#installing-minecraft-forge) for instructions on how to run this installer.
-7. Continue on to [Create the Modpack profile.](#create-the-modpack-profile]
+7. Continue on to [Create the Modpack profile.](#create-the-modpack-profile)
 
 # Create the Modpack profile.
 1. Open the vanilla Minecraft Launcher
@@ -54,7 +54,7 @@ Certain Java archive (JAR) files, such as the Forge installer/launcher JARs, are
 
 A program has been created to do this automatically, here: https://johann.loefflmann.net/downloads/jarfix.exe
 
-1. Download the program above. 
+1. Download the program above.
     * [VirusTotal for .exe](https://www.virustotal.com/gui/file/3a00c5b808954e9dca76418506eacec9cb1cb0fd844318a896ebae787f5eaae2/detection)
     * [VirusTotal for website](https://www.virustotal.com/gui/url/f47cf8195f045c0cbd8cd81d5a7992776868e44743d9ab6ecf60c87683c1d2e7/detection)
     * The two pings for VirusTotal are false positives. It requires Administator permissions in order to edit the proper registry files to fix the assocation.
@@ -67,5 +67,5 @@ A program has been created to do this automatically, here: https://johann.loeffl
 3. Double click on the folder you created earlier for this modpack.
 4. Click in some clear space in the address bar in order to be able to select the directory. ![Screenshot](https://i.imgur.com/8IeNyUQ.png)
 5. The bar will automatically highlight.
-6. Right click and press `Copy`. [!Screenshot](https://i.imgur.com/MBgQxsV.png)
+6. Right click and press `Copy`. ![Screenshot](https://i.imgur.com/MBgQxsV.png)
 7. You now have it in your clipboard. Return to step 7 in [Create the Modpack profile](#create-the-modpack-profile)
