@@ -63,6 +63,7 @@ A program has been created to do this automatically, here: https://johann.loeffl
 
 # Copying your game directory
 1. Press the windows button, type in `%appdata%` and head to `.minecraft` folder.
+   * The Windows button is the button that has the Windows icon on it. It's different one every keyboard. Check this [Wikipedia Article](https://en.wikipedia.org/wiki/Windows_key) for some example images.
 2. Double click on the `modpacks` folder.
 3. Double click on the folder you created earlier for this modpack.
 4. Click in some clear space in the address bar in order to be able to select the directory. ![Screenshot](https://i.imgur.com/8IeNyUQ.png)
