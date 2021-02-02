@@ -2,9 +2,9 @@ The Logger class that NettyPacketEncoder uses is `org.apache.logging.log4j.core.
 
 The default method, `#error(Throwable)` is parsed as `#error(Object)` since there isn't a specified Throwable method for `#error` logging.
 
-In org.apache.logging.log4j.spi.AbstractLogger
+In `org.apache.logging.log4j.spi.AbstractLogger`,
 
-```
+```java
 @Override
 public void error(final Object message) {
     logIfEnabled(FQCN, Level.ERROR, null, message, null);
