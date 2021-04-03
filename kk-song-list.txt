@@ -2,10 +2,8 @@ Forest Life
 Imperial K.K.
 K.K. Adventure
 K.K. Bazaar
-* K.K. Birthday
 K.K. Blues
 K.K. Bossa
-K.K. Condor
 K.K. Country
 K.K. Cruisin’
 K.K. D&B
@@ -28,11 +26,9 @@ K.K. Samba
 K.K. Sonata
 K.K. Song
 K.K. Swing
-K.K. Technopop
 K.K. Waltz
 Marine Song 2001
 Mountain Song
-Neapolitan
 Only Me
 Pondering
 Rockin’ K.K.

@@ -2,7 +2,7 @@
 
 0. Install 7zip (WinRAR is acceptable if you already have it installed)
     * https://www.7-zip.org/download.html
-    * Download the .eze 64-bit x64 7-Zip for 64-bit Windows x64 (Intel 64 or AMD64)
+    * Download the .exe 64-bit x64 7-Zip for 64-bit Windows x64 (Intel 64 or AMD64)
 1. Download the current modpack 7z file.
     * Usually from https://www.sweetiebelle.org/files/minecraft/
 2. Press the windows button, type in `%appdata%` and head to `.minecraft` folder.
