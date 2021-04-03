@@ -1,7 +1,7 @@
 # PROXY is the IP of the server we're on right now
-       PROXY=168.235.108.160
+       PROXY=
 # REALSERVER is the IP of the other end, or the real server we're protecting
-  REALSERVER=23.111.172.146
+  REALSERVER=
 
 OTHERSIDE=10.10.10.1
    MYSIDE=10.10.10.2
