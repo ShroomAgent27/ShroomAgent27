@@ -2,20 +2,20 @@
 
 Minecraft's `net.minecraft.network.NettyPacketEncoder` doesn't print stack traces when there's a problem encoding packets.
 
-This is an example of the message you would get under the vanilla `NettyPacketEncoder`
+This is an example of the message you would get under the vanilla `NettyPacketEncoder`. This error, and the one below it, was caused by running `/data get entity @s`. My player data had too much information to print to chat at once while running a modpack.
 
 ```
 2021-02-10 22:23:47 [Netty Server IO #4/ERROR] [minecraft/NettyPacketEncoder]: io.netty.handler.codec.EncoderException: String too big (was 4232519 bytes encoded, max 262144)
 ```
 
-Not very informative is it? It's just the excecption class, and the exception message. No stacktrace whatsoever.
+Not very informative is it? It's just the exception class, and the exception message. No stacktrace whatsoever.
 
 # The Cause
 
 
 The Logger class that NettyPacketEncoder uses is `org.apache.logging.log4j.core.Logger`.
 
-The default method, `#error(Throwable)` is parsed as `#error(Object)` since there isn't a specified Throwable method for `#error` logging. This causes the Logger to not print the stack trace, so the `Throwable` paramater is set to null in the `lofIfEnabled` method.
+The default method, `#error(Throwable)` is parsed as `#error(Object)` since there isn't a specified Throwable method for `#error` logging. This causes the Logger to not print the stack trace, so the `Throwable` parameter is set to null in the `logIfEnabled` method.
 
 In `org.apache.logging.log4j.spi.AbstractLogger`,
 
@@ -45,7 +45,7 @@ Supplying an Object message such that the call becomes `#error(Object, Throwable
 
 Supplying a `null` object prints the word `null` in console, so in this PR I provided a message (that can be changed to something else on request) in order to be a bit more helpful in what the erroring buffer was.
 
-Here is a similiar error message using my patch.
+Here is a similar error message using my patch.
 
 
 ```
@@ -77,4 +77,4 @@ io.netty.handler.codec.EncoderException: String too big (was 4419497 bytes encod
         at java.lang.Thread.run(Thread.java:748) [?:1.8.0_261] {}
 ```
 
-Much more informative, is it not?
+Much more informative, is it not? All problems with the `NettyPacketEncoder` would now print stracktraces to console instead of a single line message. This will help Forge and mod authors debug their packets more efficiently, since they can figure out exactly where problematic code lies, instead of just guessing at where the problem was with a vague error messages.
