@@ -1,0 +1,105 @@
+Bastiodon <- Shieldon
+Camerupt <- Numel
+Cherrim <- Cherubi
+Cherrim[Budform] <- Cherubi
+Clefairy <- Cleffa 
+Crawdaunt <- Corphish
+Dewgong <- Seel 
+Dragonair <- Dratini 
+Drapion <- Skorupi 
+Drifblim <- Drifloon 
+Dwebble
+Electabuzz <- Elekid
+Electivire <- Elekid
+Electrode <- Voltorb 
+Emolga
+Empoleon <- Piplup
+Espeon <- Eevee
+Excadrill <- Drilbur
+Exeggutor <- Exeggcute
+Flaaffy <- Mareep
+Floatzel <- Buizel 
+Flygon <- Trapinch 
+Fraxure <- Axew
+Froslass <- Snorunt (FEMALE)
+Growlithe
+Hariyama <- Makuhita 
+Haunter <- Gastly 
+Heracross
+Herdier <- Lillipup
+Hitmonchan <- Tyrogue
+Houndoom <- Houndour 
+Hypno <- Drowzee
+Jellicent <- Frillish
+Jolteon <- Eevee
+Kabutops <- Kabuto
+Kadabra -< Abra
+Kakuna <- Weedle
+Kingdra <- Kingdra
+Koffing
+Krokorok <- Sandile 
+Lanturn <- Chinchou
+Leavanny <- Sewaddle
+Lickilicky <- Lickitung
+Lillipup
+Lucario <- Riolu
+Ludicolo <- Lotad
+Machoke <- Machop
+Magmortar <- Magby
+Magnemite
+Magneton <- Magnemite
+Magnezone <- Magnemite
+Manectric <- Electrike
+Medicham <- Meditite
+Meditite
+Metapod <- Caterpie
+Milotic
+Nidoqueen
+Noctowl
+Nosepass
+Pachirisu
+Palpitoad
+Panpour
+Pansage
+Pansear
+Patrat
+Pidgeotto
+Piloswine
+Politoed
+Rampardos
+Roserade
+Sableye
+Sandslash
+Scizor
+Scyther
+Sealeo
+Seel
+Sharpedo
+Shedinja
+Skarmory
+Slowking
+Sneasel
+Solrock
+Steelix
+Swadloon
+Swoobat
+Tangela
+Tauros
+Torterra
+Tropius
+Turtwig
+Tyranitar
+Vanillish
+Venomoth
+Vespiquen
+Vigoroth
+Vileplume
+Wailord
+Walrein
+Watchog
+Weavile
+Weezing
+Whirlipede
+Whiscash
+Wiscash
+Wobbuffet

@@ -1,0 +1,63 @@
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+
+
+T=On Tree,C= On Coconut Tree
+
+BT: Cicada Shell [ALL] (July, August)
+BS: Rosalia Batesi Beetle [ALL] (May, June, July, August, September)
+BT: Scarab Beetle [11PM-8AM] (July, August)
+BT: Giant Stag [11PM-8AM] (July, August)
+BT: Rainbow Stag [7PM-8AM] (June, July, August, September)
+BC: Cyclommatus Stag [5PM-8AM] (July, August)
+BC: Golden Stag [5PM-8AM] (July, August)
+BC: Giraffe Stag [5PM-8AM] (July, August)
+BC: Horned Atlas [5PM-8AM] (July, August)
+BC: Horned Elephant [5PM-8AM] (July, August)
+BT: Walking Stick [4AM-8AM,5PM-7PM] (July, August, September, October, November)
+
+
+P=Pond,M=River Mouth,R=River,S=Sea,I=Pier
+
+FP: Frog [ALL] (May, June, July, August)
+FP: Giant Snakehead [9AM-4PM] (June, July, August)
+FM: King Salmon [ALL] (September)
+FR: Mitten Crab [4PM-9AM] (September, October, November)
+FR: Guppy [9AM-4PM] (April, May, June, July, August, September, October, November)
+FR: Betta [9AM-4PM] (May, June, July, August, September, October)
+FR: Rainbowfish [4AM-4PM] (May, June, July, August, September, October)
+FP: Gar [4PM-9AM] (June, July, August, September)
+FS: Napoleonfish [4AM-9PM] (July, August)
+FI: Tuna [ALL] (November, December, January, February, March, April)
+FI: Giant Trevally [ALL] (May, June, July, August, September, October)
+FI: Mahi-mahi [ALL] (May, June, July, August, September, October)
+FS: Ocean sunfish [4AM-9PM] (July, August, September)
+FS: Barreleye [9PM-4AM]  (January, February, March, April, May, June, July, August, September, October, November, December)
+FS: Coelacanth (Raining) [ALL] (January, February, March, April, May, June, July, August, September, October, November, December)
+
+
+S: Slate Pencil Urchin [4PM-9AM] (May, June, July, August, September)
+S: Gigas Giant Clam [ALL] (May, June, July, August, September)
+S: Chambered Nautilus [4PM-9AM] (March, April, May, June, September, October, November)
+S: Umbrella Octopus [ALL] (March, April, May, September, October, November)
+S: Vampire Squid [4PM-9AM] (May, June, July, August)
+S: Firefly Squid [9PM-4AM] (March, April, May, June)
+S: Spider Crab [ALL] (March, April)
+S: Tiger Prawn [4PM-9AM] (June, July, August, September)
+S: Spiny Lobster [9PM-4AM] (October, November, December)
+S: Giant Isopod [9AM-4PM,9PM-4AM] (July, August, September, October)
+S: Horeshoe Crab [9PM-4AM] (July, August, September)
+S: Sea Pineapple [ALL] (April, May, June, July, August)
+S: Spotted Garden Eal [4AM-9PM] (May, June, July, August, September, October]
+
+

@@ -1,0 +1,13 @@
+NET MATERIALS: (Size is 153 x 173)
+    8975 Stone Bricks
+    4405 Block of Iron
+    4389 Light Gray Concrete
+    3248 Light Gray Concrete Powder
+    2062 Birch Fence
+    1881 Birch Planks
+    825 Lantern
+    235 Light Blue Concrete Powder
+    235 White Concrete Powder
+    235 Pink Concrete Powder
+    235 Yellow Concrete Powder
+    

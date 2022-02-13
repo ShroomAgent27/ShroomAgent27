@@ -1,0 +1,36 @@
+NET MATERIALS:
+    2928 Smooth Calcite
+    921 Block of Amethyst
+    877 Polished Diorite
+    508 Diorite Pillar
+    432 Chest
+    331 Polished Diorite Slab
+    280 White Terracotta Tiles
+    280 White Terracotta Tile Stairs
+    245 White Terracotta Tile Slab
+    244 Diorite Corner Pillar
+    240 Calcite Pillar
+    239 White Concrete
+    216 Smooth Quartz Wall
+    151 Polished Diorite Stairs
+    144 White Stained Glass Pane
+    120 Quartz Pillar
+    104 Calcite Corner Pillar
+    78 Polished Calcite
+    72 Chiseled Quartz Block
+    56 Framed Panels
+    48 Light Gray Banner
+    41 White Glowstone
+    34 Quartz Stairs
+    27 Framed Wall
+    24 Quartz Corner Pillar
+    16 Framed Button
+    10 Smooth White Concrete
+    8 Iron Door
+    6 Lantern
+    6 Smooth Yellow Concrete
+    6 Smooth Light Blue Concrete
+    6 Smooth Pink Concrete
+    4 Framed Lever
+    2 Framed Stairs
+    1 White Glowstone Stairs

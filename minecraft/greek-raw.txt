@@ -1,0 +1,20 @@
+RAW MATERIALS:
+    3388 Calcite
+    2033 Diorite
+    921 Block of Amethyst
+    864 Wood Logs (any)
+    823 White Terracotta
+    474 Block of Quartz
+    239 White Concrete
+    54 White Stained Glass
+    48 Light Gray Banner
+    83 Framed Cube
+    72 Iron Ingot
+    60 Glowstone
+    20 Polished Deepslate
+    10 Smooth White Concrete
+    6 Smooth Yellow Concrete
+    6 Smooth Light Blue Concrete
+    6 Smooth Pink Concrete
+    4 Sticks
+    7 White Dye

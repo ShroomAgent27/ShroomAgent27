@@ -1,0 +1,11 @@
+RAW MATERIALS:
+    * 40379 Iron Ingot (Minimum 1490)
+    8976 Cobblestone
+    4300 Sand
+    4300 Gravel
+    1357 Birch Logs
+    1329 Coal
+    955 Light Gray Dye
+    30 Light Blue Dye
+    30 White Dye
+    30 Yellow Dye
