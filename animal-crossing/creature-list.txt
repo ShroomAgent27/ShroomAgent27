@@ -8,20 +8,6 @@ November
 December
 
 
-BT=On Tree,BC= On Coconut Tree
-
-BT: Cicada Shell [ALL] (July, August)
-BT: Scarab Beetle [11PM-8AM] (July, August)
-BT: Giant Stag [11PM-8AM] (July, August)
-BT: Rainbow Stag [7PM-8AM] (June, July, August, September)
-BT: Walking Stick [4AM-8AM,5PM-7PM] (July, August, September, October, November)
-BC: Cyclommatus Stag [5PM-8AM] (July, August)
-BC: Golden Stag [5PM-8AM] (July, August)
-BC: Giraffe Stag [5PM-8AM] (July, August)
-BC: Horned Atlas [5PM-8AM] (July, August)
-BC: Horned Elephant [5PM-8AM] (July, August)
-
-
 FP=Pond,FM=River Mouth,FR=River,FS=Sea,FI=Pier
 
 FM: King Salmon [ALL] (September)
@@ -32,7 +18,5 @@ FS: Ocean sunfish [4AM-9PM] (July, August, September)
 FI: Mahi-mahi [ALL] (May, June, July, August, September, October)
 
 
-S: Tiger Prawn [4PM-9AM] (June, July, August, September)
 S: Spiny Lobster [9PM-4AM] (October, November, December)
 S: Giant Isopod [9AM-4PM,9PM-4AM] (July, August, September, October)
-S: Horeshoe Crab [9PM-4AM] (July, August, September)
